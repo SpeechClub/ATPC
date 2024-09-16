@@ -1,0 +1,2 @@
+aishell2-mandarin-atpc.xlsx filter=lfs diff=lfs merge=lfs -text
+aishell2-mandarin-atpc.txt filter=lfs diff=lfs merge=lfs -text
